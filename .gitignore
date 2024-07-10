@@ -3,5 +3,4 @@
 ################################################################################
 
 **/.vs
-/recipe-browser-backend/.vs
-/recipe-browser-backend/recipe-browser-xUnit/bin
+**/.bin
