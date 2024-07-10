@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/recipe-browser-backend/.vs
+/recipe-browser-backend/recipe-browser-xUnit/bin
